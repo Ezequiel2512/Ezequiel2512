@@ -2,8 +2,7 @@ Ola sou Ezequiel2512
 
 
 
-- 📚  Atualmete estudando no iF Baiano 
-- 💻  Aprendendo a linguagem de programação php
+- 📚  iF Baiano 
 - 📫  Email: keupdi17@gmail.com
 - 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ezequiel2512)]
